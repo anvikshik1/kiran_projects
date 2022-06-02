@@ -1,0 +1,18 @@
+.wrap_content{
+    margin: 0 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.wrap_content .dom-link{
+    text-decoration: none;
+    cursor: pointer;
+}
+.signup_button{
+    border:0;
+    outline: none;
+    color:#fff;
+    background-color: #db3c30;
+    padding: 7px;
+    font-size: 16px;
+    cursor: pointer;
+}

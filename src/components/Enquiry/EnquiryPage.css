@@ -1,0 +1,8 @@
+.email_container{
+    margin: 0 20px;
+    justify-content: center;
+    display: flex;
+}
+.email_container a{
+    text-decoration: none;
+}
